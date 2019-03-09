@@ -5,7 +5,7 @@
   auto_retry_time: 
 
   <<ANSWER
-Заказ №139594
+Заказ №174089
 Вам зарезервировано - <tov>
 Район - <citi>
 Стоимость - <cena>руб
@@ -14,7 +14,7 @@
 Внимание!!!
 Оплата производится ОДНИМ платежом и частями не принимается!
 
-Оплатите на Litecoin адрес: LiGHzFYUZxBxoCrBGSNdbPWBUhBLe2GEeP
+Оплатите на Litecoin адрес: LWj5CjsBRf3Rnm8eUmRahAXosWt9kmVi8d
 Сумму - <ltc> LTC
 
 Купить Litecoin можно здесь:
