@@ -5,7 +5,7 @@
   auto_retry_time: 
 
   <<ANSWER
-Заказ №139594
+Заказ №174088
 Вам зарезервировано - <tov>
 Район - <citi>
 Стоимость - <cena>руб
@@ -14,7 +14,7 @@
 Внимание!!!
 Оплата производится ОДНИМ платежом и частями не принимается!
 
-Оплатите на Bitcoin адрес: 1Hnf5vwKFyofJ3Z9DYRoUiZXL8vaiBhXxC
+Оплатите на Bitcoin адрес: 1H7DqCxuVWVAMPg38qpVXhGiTN5nNJ4ssQ
 Сумму - <btc> BTC
 
 Купить Bitcoin можно здесь:
