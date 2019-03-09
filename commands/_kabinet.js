@@ -9,7 +9,7 @@
 
 Пополнить счет - /popolnenie
 
-Служба поддержки: @kaktusBANG 
+Служба поддержки: @Kaktus_tequila
 Наш сайт: https://kaktus-bot.info
   ANSWER
   keyboard: Ⓜ Главное меню, \nПополнить счет
